@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 😊 I'm Harsh Kumar.
+- 🏫 I'm currently studing in IIIT Kalyani.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning AI/ML and web development
+- 👯 I’m looking to collaborate on good projects.
 <!--
 **Harsh-Kumar-6/Harsh-Kumar-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
