@@ -45,7 +45,7 @@
 *"Discipline + Curiosity = Growth"* 🚀 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Kumar-6&theme=radical&hide_border=true" />
+  <img src="https://ghchart.rshah.org/Harsh-Kumar-6" alt="Harsh's GitHub contribution chart" />
 </p>
 
 
