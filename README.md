@@ -44,6 +44,10 @@
 ## ⚡ Fun Quote  
 *"Discipline + Curiosity = Growth"* 🚀 
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Kumar-6&theme=radical&hide_border=true" />
+</p>
+
 
 <!--
 **Harsh-Kumar-6/Harsh-Kumar-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
