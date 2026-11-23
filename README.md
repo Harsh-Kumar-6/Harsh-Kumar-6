@@ -44,11 +44,6 @@
 ## ⚡ Fun Quote  
 *"Discipline + Curiosity = Growth"* 🚀 
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/Harsh-Kumar-6" alt="Harsh's GitHub contribution chart" />
-</p>
-
-
 <!--
 **Harsh-Kumar-6/Harsh-Kumar-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
